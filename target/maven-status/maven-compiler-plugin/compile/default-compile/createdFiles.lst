@@ -1,0 +1,5 @@
+com\alm\trainlist\service\TrainService.class
+com\alm\trainlist\resources\JavaEE8Resource.class
+com\alm\trainlist\controller\TrainListController.class
+com\alm\trainlist\JAXRSConfiguration.class
+com\alm\trainlist\entity\TrainEntity.class
